@@ -1,0 +1,1 @@
+export const GET_JSON = "detail/get_json";
